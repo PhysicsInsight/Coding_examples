@@ -1,3 +1,6 @@
+#I have uploaded the HTML versions of the Jupyter Notebooks because some visualizations are not previewing well in Github
+
+
 # Python_library_projects
 The first file (AAPL) is a dataframe for Apple's stock, used at one point for a timeseries analysis, it is one of several files containing the dataframe analyzed in a Jupyter Notebook. The following "Analysis_with_..." files are work samples for either the proper Python language or the corresponding Python library. 
 
